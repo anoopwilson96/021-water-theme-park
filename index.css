@@ -3,9 +3,9 @@
   margin: 0;
   box-sizing: border-box;
 }
-#logoAtext{
-  background-color:white;
-}
+/* #logoAtext{
+  background-color: ;
+} */
 #text  h2{
 
   font-family: "Rakkas", serif;
@@ -22,5 +22,41 @@
 }
 
 #logoAtext img{
-  height: 6rem;
+  height: 7rem;
+}
+#topText{ 
+min-width: 320px;
+ background-color:rgb(87, 31, 215);
+ display: flex;
+ flex-direction: row;
+ justify-content: center;
+ align-items: center;
+ gap: 3rem;
+
+}
+#topText a, #topText h3{
+  font-size: 1rem;
+  text-align: center;
+  color: white;
+
+}
+
+#topText button{
+  background-color: rgb(87, 31, 215);
+  border: 0;
+
+}
+.closeTopText{
+  font-size: 1.25rem;
+  color: white;
+}
+.menuBook{
+  background-color: yellow;
+  padding: .25rem;
+}
+#headerSection2{
+  background-color: rgb(146, 105, 241);
+}
+#headerSection1{
+  background-color: rgb(209, 197, 237);
 }
