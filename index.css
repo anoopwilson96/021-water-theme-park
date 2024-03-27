@@ -22,7 +22,8 @@ body {background-color: rgb(209, 197, 237); }
 }
 
 #logoAtext img{
-  height: 7rem;
+  height: 15rem;
+  width: 20rem;
 }
 #topText{ 
 min-width: 320px;
@@ -59,7 +60,7 @@ min-width: 320px;
   color: white;
 }
 #headerSection1{
-  background-color: rgb(209, 197, 237);
+  background-color: #fff;
   
 }
 #headerSection3{
@@ -112,3 +113,11 @@ min-width: 320px;
 .active,
 .dot:hover {
   background-color: #717171;}
+
+/* Section 1 in body */
+
+#bodyText{
+
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  
+}
