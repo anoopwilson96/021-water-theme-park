@@ -5,7 +5,9 @@
   
 }
 
-body {background-color: rgb(209, 197, 237); }
+/* body {background-color: rgb(209, 197, 237); } */
+body {background-color: white; }
+
 #text  h2{
 
   font-family: "Rakkas", serif;
@@ -116,8 +118,12 @@ min-width: 320px;
 
 /* Section 1 in body */
 
-#bodyText{
-
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-  
+#bigText{
+  font-weight: 1000; 
+  color:rgb(89,159,214);
+  font-family: "EB Garamond", serif;
+  font-optical-sizing: auto;
+  font-style: normal;
 }
+  
+  
