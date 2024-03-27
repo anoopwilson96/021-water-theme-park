@@ -125,5 +125,42 @@ min-width: 320px;
   font-optical-sizing: auto;
   font-style: normal;
 }
+
+.imgBody{
+  max-width: 110%;
+  max-height: 100%;
+  object-fit: cover;
+}
+
+.contactUs{
+  background-color:  rgb(87, 31, 215) ;
+  color: white;
+}
+.aboutUs{
+background-color: rgb(146, 105, 241);
+color: white;
+}
   
-  
+#line1 h3{
+  font-family: "Dancing Script", cursive;
+  font-weight: 400;
+  color: white;
+}
+#line1 h2{
+  font-family: "EB Garamond", serif;
+  font-weight: 1000;
+  color: darkgoldenrod;
+}
+
+
+.bodySection2{
+  background-color:  rgb(87, 31, 215);
+}
+
+.bodySection3 .card{
+margin:auto;
+background-color: rgb(146, 105, 241);
+margin-top: 1rem;
+
+
+}
