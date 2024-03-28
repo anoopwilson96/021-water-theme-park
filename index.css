@@ -58,7 +58,7 @@ min-width: 320px;
   padding: .25rem;
 }
 #headerSection2{
-  background-color: rgb(146, 105, 241);
+  background-color:  rgb(242,174,47) ;
   color: white;
 }
 #headerSection1{
@@ -120,7 +120,7 @@ min-width: 320px;
 
 #bigText{
   font-weight: 1000; 
-  color:rgb(89,159,214);
+  color: rgb(242,174,47) ;
   font-family: "EB Garamond", serif;
   font-optical-sizing: auto;
   font-style: normal;
@@ -133,11 +133,11 @@ min-width: 320px;
 }
 
 .contactUs{
-  background-color:  rgb(87, 31, 215) ;
+  background-color:  rgb(242,174,47)  ;
   color: white;
 }
 .aboutUs{
-  background-color:  rgb(87, 31, 215) ;
+  background-color:  rgb(242,174,47)  ;
 color: white;
 }
   
