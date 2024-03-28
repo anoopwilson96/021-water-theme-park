@@ -176,14 +176,14 @@ margin-top: 1rem;}
   margin-top: 3rem;
 }
 
-.card-img-top{
+.card-img-top1{
   max-width: 300px;
   max-height: 300px;
   min-height: 300px;
   object-fit: cover;
 }
 
-.card{
+.card1{
   background-color: rgb(242,174,47) ;
 }
 
@@ -193,4 +193,33 @@ margin-top: 1rem;}
   gap: 1.5rem;
   margin-bottom: 2rem;
   margin-top: 2rem;
+}
+/* Price section */
+.priceName{
+  color: darkorange;
+}
+.priceAmount{
+  color: rgb(87, 31, 215);
+}
+.priceBuyButton{
+  margin-top: 1rem;
+  padding: 0 0.75rem;
+  background-color:rgb(242,174,47) ;
+  border: none;
+  border-radius: 5rem;
+  margin-bottom: 1rem;
+}
+.priceBuyButton{
+  margin-top: 1rem;
+}
+.priceCol{
+  padding: .5rem;
+}
+.priceCol{
+  max-width: 300px;
+}
+
+.priceRow{
+  margin-left: 0;
+  margin-right: 0;
 }
