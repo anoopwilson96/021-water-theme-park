@@ -161,7 +161,20 @@ color: white;
 margin:auto;
 margin-top: 1rem;}
 
+.typeImg {
+  width: 100%;
+  transition: all 1.5s;
+}
 
+.typeButton:hover .typeImg {
+  transform: scale(1.1);
+}
+
+.typeButton {
+  background-color: white;
+  border: none;
+  margin-top: 3rem;
+}
 
 
 
