@@ -137,7 +137,7 @@ min-width: 320px;
   color: white;
 }
 .aboutUs{
-background-color: rgb(146, 105, 241);
+  background-color:  rgb(87, 31, 215) ;
 color: white;
 }
   
@@ -159,8 +159,9 @@ color: white;
 
 .bodySection3 .card{
 margin:auto;
-background-color: rgb(146, 105, 241);
-margin-top: 1rem;
+margin-top: 1rem;}
 
 
-}
+
+
+
