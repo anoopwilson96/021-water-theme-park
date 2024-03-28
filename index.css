@@ -203,7 +203,7 @@ margin-top: 1rem;}
 }
 .priceBuyButton{
   margin-top: 1rem;
-  padding: 0 0.75rem;
+  padding: .5rem 1rem;
   background-color:rgb(242,174,47) ;
   border: none;
   border-radius: 5rem;
@@ -222,4 +222,9 @@ margin-top: 1rem;}
 .priceRow{
   margin-left: 0;
   margin-right: 0;
+}
+.priceImage{
+  height: 100%;
+  width: 100%;
+  
 }
