@@ -6,7 +6,14 @@
 }
 
 /* body {background-color: rgb(209, 197, 237); } */
-body {background-color: white; }
+body {background-color: white; 
+}
+header > nav{
+  min-width: 250px;
+  
+  
+
+}
 
 #text  h2{
 
