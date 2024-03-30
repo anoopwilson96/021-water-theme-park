@@ -235,3 +235,12 @@ margin-top: 1rem;}
   width: 100%;
   
 }
+.finalSection, .addressContact1, .addressContact2{
+  margin-left: auto;
+  margin-right: auto;
+}
+.addressContact1 p{
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color: #f2ae2f;
+  font-weight: 600;
+}
