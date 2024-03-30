@@ -191,7 +191,13 @@ margin-top: 1rem;}
 }
 
 .card1{
-  background-color: rgb(242,174,47) ;
+  background-color:white ;
+}
+.card1 :hover{
+  background-color: #bbb;
+}
+.popularRide{
+
 }
 
 .popularRide{
@@ -243,4 +249,13 @@ margin-top: 1rem;}
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   color: #f2ae2f;
   font-weight: 600;
+}
+
+footer {
+  background-color: rgb(87, 31, 215);
+  margin: bottom 0;
+}
+
+.FooterContent :hover{
+  color:rgb(242,174,47);
 }
