@@ -194,7 +194,7 @@ margin-top: 1rem;}
   background-color:white ;
 }
 .card1 :hover{
-  background-color: #bbb;
+  background-color:rgb(242,174,47) ;
 }
 .popularRide{
 
@@ -253,9 +253,23 @@ margin-top: 1rem;}
 
 footer {
   background-color: rgb(87, 31, 215);
-  margin: bottom 0;
 }
 
 .FooterContent :hover{
   color:rgb(242,174,47);
+}
+
+.copyrightIt{
+  font-size: 1rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.footerIcons{
+  font-size: 1.75rem;
+}
+.footerContainer{
+  margin-left: auto;
+  margin-right: auto;
 }
